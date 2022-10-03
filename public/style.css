@@ -1,0 +1,20 @@
+header{
+    background-color: steelblue;
+    color: white;
+    height: 100px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+input{
+    width: 50% !important;
+    display: inline !important;
+}
+
+.todo {
+    display : flex;
+
+}
+.complete {
+    color: green;
+}
